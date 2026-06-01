@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RV AI Consulting Group — AI-Powered Business Transformation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-BCQ7LvG7.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-hXg-cDCP.css">
+  </head>
+  <body>
+    <header class="header">
+      <nav class="nav container">
+        <a href="/" class="logo">RV AI <span>Consulting Group</span></a>
+        <button class="nav-toggle" aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#markets">Global Reach</a></li>
+          <li><a href="#models">Engagement</a></li>
+          <li><a href="#contact" class="btn btn-primary">Book a Call</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="container hero-content">
+          <h1>AI That Actually Works for Your Business.</h1>
+          <p class="subtitle">No hype. No jargon. Just practical AI transformation that cuts costs, accelerates growth, and makes your teams more productive — backed by real operations experience and deep technical know-how.</p>
+          <div class="hero-btns">
+            <a href="#contact" class="btn btn-primary">Book a Discovery Call</a>
+            <a href="#services" class="btn btn-secondary">Explore Our Services</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- About Section -->
+      <section id="about" class="about section">
+        <div class="container grid-2">
+          <div class="about-text">
+            <span class="section-tag">About Us</span>
+            <h2>Built by a Leader Who's Been on Both Sides of the Table.</h2>
+            <p>Most AI consultants understand the technology. Few understand the business.</p>
+            <p>RV AI Consulting Group was founded by a former national footballer turned entrepreneur — someone who has lived the discipline of high-performance teamwork and built businesses from the ground up. That dual perspective is our edge.</p>
+            <p>We know what it's like to run operations, manage people, and make decisions with real consequences. So when we walk into your organization, we don't come with abstract theory. We come with solutions that fit your workflow, your team, and your bottom line.</p>
+            <p class="mission"><strong>Our mission:</strong> Demystify AI, make it actionable, and deliver measurable results — not PowerPoint decks.</p>
+            
+            <ul class="differentiators">
+              <li>
+                <div class="icon-sm">🚀</div>
+                <div>
+                  <strong>Operations-first mindset</strong>
+                  <span>We speak business before we speak tech</span>
+                </div>
+              </li>
+              <li>
+                <div class="icon-sm">⚽</div>
+                <div>
+                  <strong>Proven entrepreneur</strong>
+                  <span>We've built companies, not just consulted on them</span>
+                </div>
+              </li>
+              <li>
+                <div class="icon-sm">📈</div>
+                <div>
+                  <strong>Outcome-obsessed</strong>
+                  <span>Every engagement ties back to your KPIs</span>
+                </div>
+              </li>
+              <li>
+                <div class="icon-sm">🌍</div>
+                <div>
+                  <strong>Global perspective</strong>
+                  <span>We work across industries and continents</span>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="about-image">
+            <div class="image-placeholder">
+              <span>Leader Perspective</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Services Section -->
+      <section id="services" class="services section bg-light">
+        <div class="container text-center mb-4">
+          <span class="section-tag">Our Expertise</span>
+          <h2>AI Solutions Built for Real Business Functions.</h2>
+          <p class="max-w-600 mx-auto">Whether you're looking to optimize one department or transform your entire enterprise, we tailor every solution to your unique operations.</p>
+        </div>
+        <div class="container grid-3">
+          <!-- HR AI -->
+          <div class="card">
+            <div class="card-icon">👥</div>
+            <h3>HR AI</h3>
+            <p class="card-headline">Smarter Hiring, Stronger Teams.</p>
+            <p>Reduce time-to-hire, eliminate resume screening bottlenecks, and build a talent pipeline that works while you sleep.</p>
+            <a href="#contact" class="card-link">Optimize HR &rarr;</a>
+          </div>
+
+          <!-- Marketing AI -->
+          <div class="card">
+            <div class="card-icon">📣</div>
+            <h3>Marketing AI</h3>
+            <p class="card-headline">Campaigns That Learn, Audiences That Convert.</p>
+            <p>Personalize at scale without burning out your creative team. We deploy AI tools for content generation, audience segmentation, and predictive analytics.</p>
+            <a href="#contact" class="card-link">Supercharge Marketing &rarr;</a>
+          </div>
+
+          <!-- Finance AI -->
+          <div class="card">
+            <div class="card-icon">💰</div>
+            <h3>Finance AI</h3>
+            <p class="card-headline">Close Faster, Forecast Smarter.</p>
+            <p>Automate reconciliation, flag anomalies in real time, and generate forecasts that actually adapt to changing conditions.</p>
+            <a href="#contact" class="card-link">Modernize Finance &rarr;</a>
+          </div>
+
+          <!-- Real Estate AI -->
+          <div class="card">
+            <div class="card-icon">🏠</div>
+            <h3>Real Estate AI</h3>
+            <p class="card-headline">Data-Driven Decisions for Every Property.</p>
+            <p>From automated property valuations and predictive maintenance scheduling to intelligent lead scoring for brokers.</p>
+            <a href="#contact" class="card-link">Transform Real Estate &rarr;</a>
+          </div>
+
+          <!-- Strategy -->
+          <div class="card">
+            <div class="card-icon">🧭</div>
+            <h3>AI Strategy</h3>
+            <p class="card-headline">The Big Picture, Executed.</p>
+            <p>Full AI readiness assessment, strategic roadmap, and implementation guidance — including executive training.</p>
+            <a href="#contact" class="card-link">Start Your Transformation &rarr;</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Global Reach -->
+      <section id="markets" class="markets section">
+        <div class="container grid-2">
+          <div class="markets-content">
+            <span class="section-tag">Global Reach</span>
+            <h2>Global Capability, Local Understanding.</h2>
+            <p>From the Caribbean to the Middle East, we help mid-to-large organizations adopt AI on their own terms.</p>
+            <p>Our team serves clients across North America, the Caribbean, Latin America, Europe, Africa, Asia-Pacific, and the Middle East. We launched from Saint Lucia with a deep appreciation for the unique challenges of emerging and growth markets.</p>
+            <div class="timeline">
+              <div class="timeline-item active">
+                <strong>Year 1 Focus:</strong>
+                <span>Saint Lucia, the wider Caribbean, United States, and Canada.</span>
+              </div>
+              <div class="timeline-item">
+                <strong>Expanding to:</strong>
+                <span>Europe, Africa, Asia-Pacific, and the Middle East (Years 2–5).</span>
+              </div>
+            </div>
+          </div>
+          <div class="markets-visual">
+            <div class="map-placeholder">
+              <div class="map-dots"></div>
+              <span>Global Reach Visualization</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Engagement Models -->
+      <section id="models" class="models section bg-dark text-white">
+        <div class="container">
+          <div class="text-center mb-4">
+            <span class="section-tag">Engagement</span>
+            <h2>Flexible Engagement, Predictable Value.</h2>
+            <p>We meet you where you are — from a single workshop to a full multi-year transformation.</p>
+          </div>
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>Engagement Type</th>
+                  <th>Best For</th>
+                  <th>Typical Range</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Strategic Consulting</strong></td>
+                  <td>Problem diagnosis, strategy, fractional advisory</td>
+                  <td>$150–$500 / hour</td>
+                </tr>
+                <tr>
+                  <td><strong>Implementation Projects</strong></td>
+                  <td>End-to-end AI tool deployment and integration</td>
+                  <td>$3k–$50k+</td>
+                </tr>
+                <tr>
+                  <td><strong>Monthly Retainers</strong></td>
+                  <td>Ongoing support, optimization, and AI operations</td>
+                  <td>$1k–$20k+ / month</td>
+                </tr>
+                <tr>
+                  <td><strong>Corporate Training</strong></td>
+                  <td>Executive workshops and team upskilling</td>
+                  <td>$2.5k–$25k+</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="vision text-center mt-4">
+            Looking ahead, we're building an <strong>AI Academy</strong>, developing <strong>custom software products</strong>, and launching a <strong>venture studio</strong> to incubate AI-native businesses.
+          </p>
+        </div>
+      </section>
+
+      <!-- Contact Section -->
+      <section id="contact" class="contact section">
+        <div class="container grid-2">
+          <div class="contact-info">
+            <span class="section-tag">Contact</span>
+            <h2>Ready to Turn AI into Results?</h2>
+            <p>Stop wondering if AI is right for your business. Let's find out where it will make the biggest impact — and how fast we can get you there.</p>
+            <p><strong>Book a free 30-minute discovery call.</strong> No pitch. No pressure. Just a conversation about your goals and how we can help.</p>
+            
+            <div class="contact-details">
+              <div class="contact-item">
+                <span class="icon">📧</span>
+                <span>hello@rvaiconsulting.com</span>
+              </div>
+              <div class="contact-item">
+                <span class="icon">📞</span>
+                <span>+1-758-XXX-XXXX</span>
+              </div>
+              <div class="contact-item">
+                <span class="icon">🔗</span>
+                <span>linkedin.com/company/rv-ai-consulting-group</span>
+              </div>
+            </div>
+          </div>
+          <div class="contact-form-container">
+            <form class="contact-form">
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required placeholder="Your name">
+              </div>
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required placeholder="Your email">
+              </div>
+              <div class="form-group">
+                <label for="company">Company</label>
+                <input type="text" id="company" name="company" placeholder="Your company">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4" placeholder="How can we help?"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">Book Your Discovery Call &rarr;</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div class="footer-brand">
+          <a href="/" class="logo">RV AI <span>Consulting Group</span></a>
+          <p>Delivering AI-Powered Business Transformation Worldwide.</p>
+          <p class="copyright">&copy; 2025 RV AI Consulting Group. All rights reserved.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="#services">HR AI</a></li>
+            <li><a href="#services">Marketing AI</a></li>
+            <li><a href="#services">Finance AI</a></li>
+            <li><a href="#services">Real Estate AI</a></li>
+            <li><a href="#services">AI Strategy</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Company</h4>
+          <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#">Our Approach</a></li>
+            <li><a href="#">Case Studies</a></li>
+            <li><a href="#">Blog / Insights</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="mailto:hello@rvaiconsulting.com">Email Us</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <p class="disclaimer"><strong>Disclaimer:</strong> RV AI Consulting Group is a registered consulting firm. All client data is handled in accordance with applicable data protection regulations.</p>
+      </div>
+    </footer>
+
+  </body>
+</html>
